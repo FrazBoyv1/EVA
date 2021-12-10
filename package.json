@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudoAnirudh/E-V-A.git"
+    "url": "git+https://github.com/FrazBoyv1/EVA.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "SudoAnirudh",
+  "author": "Arun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SudoAnirudh/E-V-A/issues"
+    "url": "https://github.com/FrazBoyv1/EVA/issues"
   },
-  "homepage": "https://github.com/SudoAnirudh/E-V-A",
+  "homepage": "https://github.com/FrazBoyv1/EVA",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "awesome-phonenumber": "^2.54.0",
